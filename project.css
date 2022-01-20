@@ -1,0 +1,40 @@
+
+body {
+    font-size: 18px;
+    line-height: 3.0em;
+}
+
+.main-body{
+    width: 1440px;
+}
+
+.main-project {
+    padding-left: 375px;
+    width: 375px;
+}
+
+.text-1 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.image img{
+    width: 375px;
+
+}
+
+.flex {
+    display: ;
+}
+
+.etherium {
+    display: flex;
+}
+
+.time{
+    display: flex;
+}
+
+
+
+
